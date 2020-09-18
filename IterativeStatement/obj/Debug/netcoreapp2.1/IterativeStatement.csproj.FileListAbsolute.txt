@@ -1,0 +1,11 @@
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.csprojAssemblyReference.cache
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.AssemblyInfoInputs.cache
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.AssemblyInfo.cs
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\bin\Debug\netcoreapp2.1\IterativeStatement.deps.json
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\bin\Debug\netcoreapp2.1\IterativeStatement.runtimeconfig.json
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\bin\Debug\netcoreapp2.1\IterativeStatement.runtimeconfig.dev.json
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\bin\Debug\netcoreapp2.1\IterativeStatement.dll
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\bin\Debug\netcoreapp2.1\IterativeStatement.pdb
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.dll
+C:\Users\Elliot\source\repos\IterativeStatement\IterativeStatement\obj\Debug\netcoreapp2.1\IterativeStatement.pdb
